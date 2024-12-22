@@ -1,0 +1,40 @@
+.bg-main {
+  background-color: hsl(222, 26%, 31%);
+}
+.bg-screen {
+  background-color: hsl(224, 36%, 15%);
+}
+
+.btn-key {
+  background-color: hsl(225, 21%, 49%);
+  border-color: hsl(224, 28%, 35%);
+  color: hsl(0, 0%, 100%);
+  box-shadow: 0 3px hsl(224, 28%, 35%);
+}
+.btn-key:hover {
+  background-color: hsl(225, 21%, 55%);
+}
+
+.btn-key-danger {
+  background-color: hsl(6, 63%, 50%);
+  border-color: hsl(6, 70%, 34%);
+  color: hsl(0, 0%, 100%);
+  box-shadow: 0 3px hsl(6, 70%, 34%);
+}
+.btn-key-danger:hover {
+  background-color: hsl(6, 63%, 55%);
+}
+
+.btn-key-light {
+  background-color: hsl(30, 25%, 89%);
+  border-color: hsl(28, 16%, 65%);
+  color: hsl(221, 14%, 31%);
+  box-shadow: 0 3px hsl(28, 16%, 65%);
+}
+.btn-key-light:hover {
+  background-color: hsl(30, 25%, 95%);
+}
+
+#display {
+  height: 70px;
+}
